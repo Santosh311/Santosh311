@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Santosh311
-- 👀 I’m interested in Web Development, Data Analytics & Machine Learning
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on a testing project
+- 👀 I’m interested in Java FSE, Machine Learning
+- 🌱 I’m currently working in a Data Tuning Project
 - 📫 How to reach me ... Call/Whatsapp : +91 9080437078 or mail me at santosh311302@gmail.com
 
 <!---
